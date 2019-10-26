@@ -1,2 +1,5 @@
+mx\com\chelaya\service\PedidoChelasYa.class
 mx\com\chelaya\HelloWorld.class
+mx\com\chelaya\service\PedidoChelasYaService.class
+mx\com\chelaya\model\ClientePedido.class
 mx\com\chelaya\HelloWorldImpl.class
